@@ -11,6 +11,7 @@ A small (mostly) Tetris standards compient game written in pure C++/SFML.
 
 C++11 Complient version of GCC
 SFML (Idealy 2.5.1, not tested with other versions)
+windres (Included in the GNU Binary Utilities)
 
 ## Complation
 
