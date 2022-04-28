@@ -26,4 +26,4 @@ After all the adjustments needed, just ```make``` or ```mingw32-make``` and you 
 
 ## Download
 
-If all of that mess seem much to complicated, and you just want to play tetris, the releases section has pre-built bianaries for windows devices.
+If all of that mess seems much to complicated, and you just want to play Tetris, the releases section has pre-built bianaries for windows devices.
