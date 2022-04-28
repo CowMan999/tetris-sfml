@@ -1,5 +1,5 @@
 CXX= g++
-CXXFLAGS= -mwindows -std=c++20 -Wall -Wextra -Werror -Ofast -s -fdata-sections -ffunction-sections -Wl,-s,--gc-sections
+CXXFLAGS= -mwindows -std=c++20 -Wall -Wextra -Werror -Ofast -s -DSFML_STATIC
 CXXLIBS= -lsfml-graphics-s -lsfml-window-s -lopengl32 -ljpeg -lfreetype -lgdi32 -lsfml-audio-s -lopenal32 -lFLAC -lvorbisenc -lvorbisfile -lvorbis -logg -lsfml-network-s -lws2_32 -lsfml-system-s -lwinmm
 CXXLIBPATHS= -L"C:\Users\famma\Documents\My_Programs\SFML\SFML-2.5.1\extlibs\libs-mingw\x64" -L"C:\Users\famma\Documents\My_Programs\SFML\SFML-2.5.1\staticbuild\lib"
 
