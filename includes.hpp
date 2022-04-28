@@ -2,8 +2,6 @@
 #ifndef INCLUDES_HPP
 #define INCLUDES_HPP
 
-#define SFML_STATIC
-
 // CXX HEADERS
 #include <SFML/Graphics.hpp>
 #include <SFML/Audio.hpp>
