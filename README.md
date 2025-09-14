@@ -1,6 +1,6 @@
 # Tetris-SFML
 
-A small (mostly) Tetris standards compient game written in pure C++/SFML.
+A small Tetris clone written in pure C++/SFML.
 
 ![image](https://user-images.githubusercontent.com/79599920/165860384-14f1bd21-16b6-4bf5-bf35-4bbe908267ea.png)
 ![image](https://user-images.githubusercontent.com/79599920/165860472-f6809e72-ae90-454e-9ed8-5f57baf8d52c.png)
